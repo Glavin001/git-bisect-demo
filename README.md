@@ -21,6 +21,12 @@ past, the tests were all passing. When did the bug get introduced?
 
 Let's use `git bisect` to find out.
 
+## Quick Way: Automated Bisect
+
+```bash
+./run-bisect.sh
+```
+
 ## How to use `git bisect`
 
 ```bash
